@@ -1,0 +1,28 @@
+.one{
+    width: 50;
+    height: 50;
+}
+.body{
+    background-color: #e2e9e8;
+}
+.button{
+    width: 300px;
+    height: 30px;
+}
+img{
+    padding-top: 10px;
+    border-radius: 25px;
+    width: 430px;
+}
+.div{
+    background-color: white; 
+    border-radius: 25px;
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 5%;
+    padding-bottom: 22px;
+}
+.spa{
+    padding-top: 20px;
+}
